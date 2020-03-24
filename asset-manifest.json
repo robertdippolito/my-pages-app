@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-pages-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/my-pages-app/static/js/main.74fd102c.chunk.js",
+    "main.js.map": "/my-pages-app/static/js/main.74fd102c.chunk.js.map",
+    "runtime-main.js": "/my-pages-app/static/js/runtime-main.c35f74cf.js",
+    "runtime-main.js.map": "/my-pages-app/static/js/runtime-main.c35f74cf.js.map",
+    "static/js/2.3113787f.chunk.js": "/my-pages-app/static/js/2.3113787f.chunk.js",
+    "static/js/2.3113787f.chunk.js.map": "/my-pages-app/static/js/2.3113787f.chunk.js.map",
+    "index.html": "/my-pages-app/index.html",
+    "precache-manifest.5e77db9743ced3e4817cffd2e22e4e5f.js": "/my-pages-app/precache-manifest.5e77db9743ced3e4817cffd2e22e4e5f.js",
+    "service-worker.js": "/my-pages-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/my-pages-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3113787f.chunk.js.LICENSE.txt": "/my-pages-app/static/js/2.3113787f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-pages-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c35f74cf.js",
+    "static/js/2.3113787f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.74fd102c.chunk.js"
+  ]
+}
